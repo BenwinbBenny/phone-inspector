@@ -128,14 +128,3 @@ The application does not intentionally save submitted phone numbers to files, da
 
 Do not modify the project to collect or publish other people's phone numbers without appropriate authorization.
 
-## License
-
-MIT License
-
-Copyright (c) 2026 YOUR_NAME
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files, to deal in the Software
-without restriction, including without limitation the rights to use, copy,
-modify, merge, publish, distribute, sublicense, and/or sell copies of the
-Software, subject to the conditions of the MIT License.
