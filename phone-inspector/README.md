@@ -27,7 +27,7 @@ A lightweight Python command-line utility for inspecting phone-number metadata u
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/phone-inspector.git
+git clone https://github.com/BenwinbBenny/phone-inspector.git
 cd phone-inspector
 ```
 
